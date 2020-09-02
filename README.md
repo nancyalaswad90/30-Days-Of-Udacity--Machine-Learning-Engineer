@@ -1,7 +1,16 @@
 
 
+.
+
+
 
 # 30 Days Of Udacity For ((  Machine Learning-Engineer)) 
+
+
+
+
+
+
 
 
 
@@ -98,7 +107,7 @@ Because it builds habits that emphasize consistent practice to help the overall 
   - .
   - .
   - .
-  - 50 #50 50DaysOfUdacity
+  - 30 #50 50DaysOfUdacity
 
 
 
