@@ -132,7 +132,7 @@ Because it builds habits that emphasize consistent practice to help the overall 
  - Completed Lesson 2.1 to 2.11
  
   
- - Create this repo **(30 Days Of Udacity For Machine Learning Engineer)**
+ - Create this repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
  
 
  
