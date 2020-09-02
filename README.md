@@ -120,23 +120,21 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
-### Day 1 of #50daysofudacity
+### Day 1 of #30daysofudacity
 
 
 -----------------------------
 
 
  - Completed introduction
+  
+  
+ - Completed Lesson 2.1 to 2.11
  
+  
+ - Create this repo **(30 Days Of Udacity For Machine Learning Engineer)**
  
- * Completed Lesson 2.1 to 2.11
- 
- 
- 
- - Create this repo **(50DaysOfUdacity--NancyAlAswad)**
- 
- 
- - [Completed Lesson 2.11 to 2.22 ](https://user-images.githubusercontent.com/36210723/87430538-03829800-c5ee-11ea-9a8e-54a43b178498.jpg)
+
  
 
 
