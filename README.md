@@ -1,5 +1,7 @@
 
 
+
+
 .
 
 
@@ -15,7 +17,10 @@
 
 
 
+
 Repo to keep track of my progress during the **#30DaysOfUdacity**
+
+
 
 
 
@@ -23,14 +28,27 @@ Repo to keep track of my progress during the **#30DaysOfUdacity**
 
 
 
+
+
 ## What is the #30DaysofUdacity Challenge?
+
+
+
 
 
 **This challenge** is to build a habit of consistent practice of new skills by making a public commitment to practicing the topics of your Foundation Course every day for 30 days.
 
 
 
+.
+
+
+
 **The advantage here**
+
+
+
+
 
 
 
@@ -39,11 +57,18 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
+
+
+
 **This repo**  is created to make it easy to keep track of my progress during the challenge and to add a visual effect to my progress and commitment by updating my GitHub contribution chart daily **(extra motivation!).**
 
 
 
+
+
 .
+
+
 
 
 ![git](https://user-images.githubusercontent.com/36210723/87428302-d2ed2f00-c5ea-11ea-9aa1-21b8c3cd7a7d.jpg)
@@ -53,6 +78,8 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 .
+
+
 
 
 ## How to Use this Template ?
@@ -102,11 +129,23 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
+
+
+
   - 01 #30DaysOfUdacity
+  
+  
   - 02 #30DaysOfUdacity
+  
+  
   - .
+  
   - .
+  
   - .
+  
+  
+  
   - 30 #30 30DaysOfUdacity
 
 
