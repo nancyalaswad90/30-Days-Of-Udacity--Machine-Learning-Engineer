@@ -15,7 +15,7 @@
 
 
 
-Repo to keep track of my progress during the **#50DaysOfUdacity**
+Repo to keep track of my progress during the **#30DaysOfUdacity**
 
 
 
@@ -83,7 +83,7 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
-- Create your **own repo** from the [template;](https://github.com/nancyalaswad90/50DaysOfUdacity--NancyAlAswad/blob/master/README.md) by entering a **Repository name** (e.g. 50DaysOfUdacity-YourName), an optional **Desciption**, and clicking on **Create repository from template** button;
+- Create your **own repo** from the [template;](https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer) by entering a **Repository name** (e.g. 30DaysOfUdacity-YourName), an optional **Desciption**, and clicking on **Create repository from template** button;
 
 
 .
@@ -102,12 +102,12 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
-  - 01 #50DaysOfUdacity
-  - 02 #50DaysOfUdacity
+  - 01 #30DaysOfUdacity
+  - 02 #30DaysOfUdacity
   - .
   - .
   - .
-  - 30 #50 50DaysOfUdacity
+  - 30 #30 30DaysOfUdacity
 
 
 
