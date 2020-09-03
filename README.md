@@ -195,9 +195,6 @@ Because it builds habits that emphasize consistent practice to help the overall 
 -----------------------------
 
  
-
-  - Keep reviewing Lesson 5 .
-  
   
  - Completed 100% from Lesson (( 2 ))
  
