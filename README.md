@@ -168,7 +168,7 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
-### Day 1 of #30daysofudacity
+### Day 1 of #30daysofudacity   3-09
 
 
 -----------------------------
@@ -189,3 +189,21 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
  
+      
+### Day 2 of #30daysofudacity  4-09
+  
+-----------------------------
+
+ 
+
+  - Keep reviewing Lesson 5 .
+  
+  
+ - Completed 100% from Lesson (( 2 ))
+ 
+ 
+  
+ - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
+
+
