@@ -272,7 +272,7 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 I am **ready** to be a Mentor. 
 
-I am excited to support students.
+I am _excited_ to support students.
 
 
 - Share knowledge with others 
