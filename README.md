@@ -282,6 +282,23 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
+
+
+
+### Day 7 of #30daysofudacity  9-09
+  
+-----------------------------
+
+ 
+ - Completed 100 % from Lesson (( 3 )) in  Machine Learning Engineer Nanodegree
+ 
+  
+ 
+- Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
+
+
+
 .
 
 
