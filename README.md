@@ -307,15 +307,13 @@ Because it builds habits that emphasize consistent practice to help the overall 
   
 -----------------------------
 
-  
-  
+    
   - Studying Part 4: Software Engineering Fundamentals from  (( Machine Learning Engineer Nanodegree  ) ) 
   
   
   - Working in the SageMaker Project.
   
    
-    
   - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
  
 
