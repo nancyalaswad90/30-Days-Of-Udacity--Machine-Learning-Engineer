@@ -427,3 +427,19 @@ Because it builds habits that emphasize consistent practice to help the overall 
  
 
   
+
+
+
+    ### Day 15  of #30daysofudacity  17 -09
+  
+-----------------------------
+
+     
+  - Working in the SageMaker Project, after getting icrease limit from Amazon 
+  
+   
+  - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
+
+  
+
