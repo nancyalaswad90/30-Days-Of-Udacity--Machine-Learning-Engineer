@@ -459,4 +459,23 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
+### Day 17  of #30daysofudacity  19  -09
+  
+-----------------------------
+
+     
+ - Pass the SageMaker Project.
+  
+  
+ - Working in the Second Project (( Plagiarism Detection Project )) 
+  
+   
+ - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
+
+  
+
+
+
+
 
