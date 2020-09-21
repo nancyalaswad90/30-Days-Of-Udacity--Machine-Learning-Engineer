@@ -491,3 +491,18 @@ Because it builds habits that emphasize consistent practice to help the overall 
  
 
 
+
+
+
+### Day 19  of #30daysofudacity  21  -09
+  
+-----------------------------
+
+  - Studying (( Population Segmentation)) :point_right:  Lesson (2)  from (( Machine Learning Engineer Nanodegree  ) ) 
+  
+  
+ - Working in the Second Project (( Plagiarism Detection Project )) 
+  
+   
+ - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
