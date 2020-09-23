@@ -512,13 +512,11 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
-
-
 ### Day 20  of #30daysofudacity  22  -09
   
 -----------------------------
 
-  - Studying (( Population Segmentation)) :point_right:  Lesson (3)   from (( Machine Learning Engineer Nanodegree  ) ) 
+  - Studying (( Time -Series Forecasting )) :point_right:  Lesson (5)   from (( Machine Learning Engineer Nanodegree  ) ) 
   
   
  - Working in the Second Project (( Plagiarism Detection Project )) 
@@ -526,3 +524,29 @@ Because it builds habits that emphasize consistent practice to help the overall 
    
  - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
  
+ 
+ 
+ 
+ 
+ 
+
+### Day 21  of #30daysofudacity  23  -09
+  
+-----------------------------
+
+  - Studying (( Time -Series Forecasting )) :point_right:  Lesson (5)   from (( Machine Learning Engineer Nanodegree  ) ) 
+  
+  
+ - Working in the Second Project (( Plagiarism Detection Project )) 
+  
+   
+ - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
+
+
+
+
+
+
+
+
