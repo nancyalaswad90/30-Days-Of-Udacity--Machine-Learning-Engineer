@@ -547,6 +547,23 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
+### Day 22  of #30daysofudacity  24  -09
+  
+-----------------------------
+  
+  
+ - Pass  the Second Project (( Plagiarism Detection Project )) 
+ 
+ 
+ - Studying  third prject  :point_right:  from (( Machine Learning Engineer Nanodegree  ) ) 
+  
+   
+ - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
+
+
+
+
 
 
 
