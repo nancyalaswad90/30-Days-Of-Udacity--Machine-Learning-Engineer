@@ -648,3 +648,15 @@ Because it builds habits that emphasize consistent practice to help the overall 
 
 
 
+### Day 29  of #30daysofudacity  1  -10
+  
+-----------------------------
+
+ - Studying Linear algerbra course 
+ 
+ - Studying  third project (Capstone Proposal) :point_right:  from (( Machine Learning Engineer Nanodegree  ) ) 
+  
+ - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
+
+
