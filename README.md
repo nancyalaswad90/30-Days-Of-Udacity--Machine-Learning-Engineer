@@ -660,3 +660,18 @@ Because it builds habits that emphasize consistent practice to help the overall 
  
 
 
+
+
+
+
+### Day 30  of #30daysofudacity  2  -10
+  
+-----------------------------
+
+ - Pass  Linear algerbra course exams and gainmy certification 
+ 
+ - Submit my third project (Capstone Proposal) :point_right:  from (( Machine Learning Engineer Nanodegree  ) ) 
+  
+ - Update my repo **(30 Days Of Udacity For Machine Learning Engineer)**   :point_right:   https://github.com/nancyalaswad90/30-Days-Of-Udacity--Machine-Learning-Engineer
+ 
+
