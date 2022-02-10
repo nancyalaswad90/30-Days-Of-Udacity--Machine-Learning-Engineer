@@ -18,9 +18,8 @@
 
 
 
-Repo to keep track of my progress during the **#30DaysOfUdacity**
 
-
+> Repo to keep track of my progress during the **#30DaysOfUdacity**  For   Machine Learning-Engineer
 
 
 
